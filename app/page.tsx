@@ -10,6 +10,9 @@ export default function Home() {
       <footer className="row-start-3 flex gap-[24px] flex-wrap items-center justify-center">
         <ul>
           <li>
+            <Link href="/race-sim">Play Racing Simulator</Link>
+          </li>
+          <li>
             <Link href="/wordle">Play Wordle</Link>
           </li>
           <li>
